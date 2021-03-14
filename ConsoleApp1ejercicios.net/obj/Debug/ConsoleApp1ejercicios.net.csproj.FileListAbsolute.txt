@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\bin\Debug\ConsoleApp1ejercicios.net.exe.config
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\bin\Debug\ConsoleApp1ejercicios.net.exe
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\bin\Debug\ConsoleApp1ejercicios.net.pdb
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\obj\Debug\ConsoleApp1ejercicios.net.csprojAssemblyReference.cache
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\obj\Debug\ConsoleApp1ejercicios.net.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\obj\Debug\ConsoleApp1ejercicios.net.exe
+C:\Users\sebas\source\repos\ConsoleApp1ejercicios.net\ConsoleApp1ejercicios.net\obj\Debug\ConsoleApp1ejercicios.net.pdb
